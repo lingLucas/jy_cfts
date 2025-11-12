@@ -1,0 +1,22 @@
+# 忽略 Qt 构建目录
+build/
+build-*/
+
+# 忽略 Qt 临时文件
+*.pro.user
+*.user
+*.obj
+*.o
+*.log
+*.tmp
+
+# 忽略生成文件
+*.exe
+*.dll
+*.so
+*.a
+
+# 忽略其他常见中间文件
+*.qrc.dep
+*.moc
+*.pdb

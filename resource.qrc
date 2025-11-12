@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/camera">
+        <file>icons/connect.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/find.png</file>
+        <file>icons/start.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/video.png</file>
+    </qresource>
+</RCC>
